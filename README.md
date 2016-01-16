@@ -15,8 +15,13 @@ The goal of this project was to design and build a semi-automated system that ca
 ##Media
 ![MainSetup](http://i.imgur.com/DADkAed.jpg)
 *Final Robot Setup*
- 
- 
+    
+    
 ![MainSetup](http://i.imgur.com/SWVJRMH.png)
 *Wooden frame for Chessboard*
+  
+   
+  
+[![DemoVideo](http://img.youtube.com/vi/_WreFrQ39X4/0.jpg)](https://www.youtube.com/watch?v=_WreFrQ39X4 "NXTChessAssistant Demo")
 
+*YouTube video of the NXTChessAssistant in action* ___(Click image to play)___
